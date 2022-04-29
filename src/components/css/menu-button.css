@@ -1,0 +1,19 @@
+.menu-console {
+  display: inline-block;
+  position: absolute;
+  top: 8.2vh;
+  margin-left: 1vw;
+  padding: 1vh 0px 2vh 0px;
+  background: rgba(248, 248, 248, 0.8);
+  border: 2px solid #cbe2ef;
+  box-sizing: border-box;
+  border-radius: 15px;
+  width: auto;
+  max-width: 11.5vw;
+  z-index: 2;
+}
+.menu-button {
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+}

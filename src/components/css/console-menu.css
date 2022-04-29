@@ -1,0 +1,12 @@
+.menu-console-element {
+  width: 100%;
+  position: relative;
+  font-size: calc((100vw - 300px) / (1140 - 300) * (14 - 10) + 10px);
+}
+.menu-console-element:hover {
+  background: #cbe2ef;
+}
+.console-link-container {
+  padding-right: 1vw;
+  padding-left: 1vw;
+}
