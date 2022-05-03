@@ -48,7 +48,12 @@
         />
       </div>
     </div>
-    {{ width }}
+    <div class="block events">
+      <h2 class="block-h">Популярные мероприятия</h2>
+      <div class="container-c">
+        div.
+      </div>
+    </div>
   </div>
 </template>
 
