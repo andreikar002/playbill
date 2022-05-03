@@ -1,0 +1,35 @@
+.block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  grid-gap: 5vh;
+}
+.catalog-element {
+  display: flex;
+  flex-direction: column;
+  padding: 35px 45px 21px 45px;
+  background-color: #cbe2ef;
+  max-width: 350px;
+  width: 75%;
+  height: 250px;
+}
+.catalog-font {
+  color: var(--main-color);
+  font-size: 24px;
+  font-weight: 400;
+}
+.block-h {
+  color: var(--main-color);
+  font-size: 48px;
+  margin: 0px;
+}
+.catalog-img {
+  max-width: 201px;
+  height: 197px;
+}
+.advantages {
+  background-color: var(--main-background);
+  padding: 3vh;
+  margin-top: 4.5vh;
+}
